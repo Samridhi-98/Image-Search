@@ -1,10 +1,10 @@
-# Image-Search
-A react app to search images using API.
+# Image Search
+A simple React-App for searching images using `unsplash API`.
 
-<h2>Screenshot:</h2>
+## How To Run
+1. `git clone`
+2. `npm install` 
+3. `npm start`
 
-![image](Screenshots/ss1.png)
-
-# How To Run
-- install node 
-- open your terminal then execute "npm start" command.
+### How It Looks
+![image](Screenshots/dog_search.png)
